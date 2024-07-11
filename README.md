@@ -31,8 +31,9 @@ I am a passionate data scientist and Python developer with over three years of w
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,bash,sqlite,postgres,latex,markdown,docker,apple,linux,windows)](https://skillicons.dev)
 
-## Recent Article
+## Recent Articles
 - [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/")
+- [A Forecasting Analysis of Inventory Costs &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/ "https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/")
 
 ## 🌱 Currently Exploring
 - 🚀 Learning about Large Language Models
