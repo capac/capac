@@ -34,31 +34,29 @@ I am a passionate data scientist and Python developer with over three years of w
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,bash,sqlite,postgres,latex,markdown,docker,apple,linux,windows)](https://skillicons.dev)
 
-<!--
+
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Learning about Large Language Models
+  - Taking the [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
+- 🚀 Learning about Machine Learning Operations
+  - Taking the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") bootcamp
 
+<!--
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
+-->
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
--->
-
+- Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angelovarlotta).
+- Read more of my articles on [https://angelovarlotta.com](https://angelovarlotta.com).
 
 <!--
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 Here are some ideas to get you started:
 
