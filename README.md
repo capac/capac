@@ -28,15 +28,13 @@ I am a passionate data scientist and Python developer with over three years of w
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 -->
 
-## Recent Article
-- [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/")
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,bash,sqlite,postgres,latex,markdown,docker,apple,linux,windows)](https://skillicons.dev)
 
+## Recent Article
+- [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/")
 
 ## 🌱 Currently Exploring
-
 - 🚀 Learning about Large Language Models
   - Taking the [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
 - 🚀 Learning about Machine Learning Operations
@@ -50,9 +48,8 @@ I am a passionate data scientist and Python developer with over three years of w
 -->
 
 ## 📬 Get in Touch
-
-- Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angelovarlotta).
-- Read more of my articles on [https://angelovarlotta.com](https://angelovarlotta.com).
+- Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angelovarlotta)
+- Read more of my articles on [https://angelovarlotta.com](https://angelovarlotta.com)
 
 <!--
 
