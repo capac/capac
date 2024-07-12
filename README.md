@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 I am a passionate data scientist and Python developer with over three years of work experience in data science and software projects.
 
+<!--
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=capac&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<!--
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
@@ -29,7 +30,7 @@ I am a passionate data scientist and Python developer with over three years of w
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,bash,sqlite,postgres,latex,markdown,docker,apple,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,git,bash,sqlite,postgres,vscode,latex,markdown,docker,apple,linux,raspberrypi,windows)](https://skillicons.dev)
 
 ## Recent Articles
 - [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/")
