@@ -27,10 +27,10 @@ I am a passionate data scientist and Python developer with many years of experie
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
--->
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,regex,git,bash,sqlite,postgres,vscode,latex,markdown,docker,apple,linux,raspberrypi,windows)](https://skillicons.dev)
+-->
 
 ## Recent Articles
 - [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/")
