@@ -33,7 +33,7 @@ I am a passionate data scientist and Python developer with many years of experie
 -->
 
 ## Recent Articles
-- [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/")
+- [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/") (link to [web app](https://dog-breed-image-classification.streamlit.app/ "https://dog-breed-image-classification.streamlit.app/"))
 - [A Forecasting Analysis of Inventory Costs &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/ "https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/")
 
 ## 🌱 Currently Exploring
