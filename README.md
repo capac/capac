@@ -33,6 +33,7 @@ I am a passionate data scientist and Python developer with many years of experie
 -->
 
 ## Recent Articles
+- [Project on short term rentals in London UK &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/ "https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/") (link to [web app](https://rental-pricing-app.streamlit.app/ "https://rental-pricing-app.streamlit.app/"))
 - [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/") (link to [web app](https://dog-breed-image-classification.streamlit.app/ "https://dog-breed-image-classification.streamlit.app/"))
 - [A Forecasting Analysis of Inventory Costs &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/ "https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/")
 
