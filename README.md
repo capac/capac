@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Angelo! 👋
 
-I am a passionate data scientist and Python developer with many years of experience in data science and software projects.
+I am a passionate data scientist, machine learning engineer and Python developer with many years of experience in data science and software projects.
 
 <!--
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=capac&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -33,22 +33,21 @@ I am a passionate data scientist and Python developer with many years of experie
 -->
 
 ## Recent Articles
-- [Project on short term rentals in London UK &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/ "https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/") (link to [web app](https://rental-pricing-app.streamlit.app/ "https://rental-pricing-app.streamlit.app/"))
+- [Project on Short Term Rentals in London UK &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/ "https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/") (link to [web app](https://rental-pricing-app.streamlit.app/ "https://rental-pricing-app.streamlit.app/"))
 - [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/") (link to [web app](https://dog-breed-image-classification.streamlit.app/ "https://dog-breed-image-classification.streamlit.app/"))
 - [A Forecasting Analysis of Inventory Costs &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/ "https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/")
 
+
+## 🏆 Achievements
+
+- 🌟 Completed the 2025 [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") bootcamp
+  - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") is a free machine learning operations course from [DataTalks.Club](https://datatalks.club/ "https://datatalks.club/")
+- 🌟 Completed the 2024 [ML Zoomcamp](https://github.com/DataTalksClub/ml-zoomcamp "https://github.com/DataTalksClub/ml-zoomcamp") bootcamp
+  - [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp "https://github.com/DataTalksClub/machine-learning-zoomcamp") is a free machine learning course from [DataTalks.Club](https://datatalks.club/ "https://datatalks.club/")
+
 ## 🌱 Currently Exploring
-- 🚀 Learning about Machine Learning Operations
-  - Taking the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") bootcamp
 - 🚀 Learning about Large Language Models
   - Taking the [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
-
-<!--
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
--->
 
 ## 📬 Get in Touch
 - Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angelovarlotta)
