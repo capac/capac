@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Angelo! 👋
 
-I am a passionate data scientist, machine learning engineer and Python developer with many years of experience in data science and software projects.
+I am a passionate data scientist with many years of experience in data science and software projects.
 
 <!--
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=capac&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -33,10 +33,9 @@ I am a passionate data scientist, machine learning engineer and Python developer
 -->
 
 ## Recent Articles
+- [Evaluating Student Performance in Higher Education &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2025-08-27-higher-education-students-performance-evaluation/ "https://angelovarlotta.com/projects/2025-08-27-higher-education-students-performance-evaluation/")
 - [Project on Short Term Rentals in London UK &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/ "https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/") (link to [web app](https://rental-pricing-app.streamlit.app/ "https://rental-pricing-app.streamlit.app/"))
 - [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/") (link to [web app](https://dog-breed-image-classification.streamlit.app/ "https://dog-breed-image-classification.streamlit.app/"))
-- [A Forecasting Analysis of Inventory Costs &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/ "https://angelovarlotta.com/projects/2024-03-20-overstocking-and-understocking-analysis/")
-
 
 ## 🏆 Achievements
 
