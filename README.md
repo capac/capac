@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Angelo! 👋
 
-I am a passionate data scientist with many years of experience in data science and software projects.
+I am a passionate data scientist with many years of experience in data science, machine learning and Python software projects.
 
 <!--
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=capac&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
