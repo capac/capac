@@ -37,16 +37,16 @@ I am a passionate data scientist with many years of experience in data science, 
 - [Project on Short Term Rentals in London UK &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/ "https://angelovarlotta.com/projects/2025-05-03-short-term-rents-in-london/") (link to [web app](https://rental-pricing-app.streamlit.app/ "https://rental-pricing-app.streamlit.app/"))
 - [Using Computer Vision to Recognize Different Dog Breeds &bull; Angelo Varlotta](https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/ "https://angelovarlotta.com/projects/2024-05-12-dog-breed-image-classification/") (link to [web app](https://dog-breed-image-classification.streamlit.app/ "https://dog-breed-image-classification.streamlit.app/"))
 
+## 🌱 Currently Exploring
+- 🚀 Learning about Large Language Models
+  - Taking the [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
+
 ## 🏆 Achievements
 
 - 🌟 Completed the 2025 [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") bootcamp
   - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") is a free machine learning operations course from [DataTalks.Club](https://datatalks.club/ "https://datatalks.club/")
 - 🌟 Completed the 2024 [ML Zoomcamp](https://github.com/DataTalksClub/ml-zoomcamp "https://github.com/DataTalksClub/ml-zoomcamp") bootcamp
   - [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp "https://github.com/DataTalksClub/machine-learning-zoomcamp") is a free machine learning course from [DataTalks.Club](https://datatalks.club/ "https://datatalks.club/")
-
-## 🌱 Currently Exploring
-- 🚀 Learning about Large Language Models
-  - Taking the [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
 
 ## 📬 Get in Touch
 - Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angelovarlotta)
