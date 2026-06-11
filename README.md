@@ -39,7 +39,7 @@ I am a passionate data scientist with many years of experience in data science, 
 
 ## 🌱 Currently Exploring
 - 🚀 Learning about Large Language Models
-  - Taking the [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
+  - Taking the 2026 [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
 
 ## 🏆 Achievements
 
