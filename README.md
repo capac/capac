@@ -39,10 +39,10 @@ I am a passionate data scientist with many years of experience in data science, 
 
 ## 🌱 Currently Exploring
 - 🚀 Learning about Large Language Models
-  - Taking the 2026 [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
 
 ## 🏆 Achievements
-
+- 🌟 Completed the 2026 [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") bootcamp
+  - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp "https://github.com/DataTalksClub/llm-zoomcamp") is a free large language model course from [DataTalks.Club](https://datatalks.club/ "https://datatalks.club/")
 - 🌟 Completed the 2025 [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") bootcamp
   - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp "https://github.com/DataTalksClub/mlops-zoomcamp") is a free machine learning operations course from [DataTalks.Club](https://datatalks.club/ "https://datatalks.club/")
 - 🌟 Completed the 2024 [ML Zoomcamp](https://github.com/DataTalksClub/ml-zoomcamp "https://github.com/DataTalksClub/ml-zoomcamp") bootcamp
